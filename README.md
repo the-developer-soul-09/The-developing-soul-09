@@ -3,4 +3,5 @@
 - I’m currently learning full stack web development...
 - I've worked as a freelance web developer (entry-level) for around 3 months and as a freelance content writer for more than a year. 
 - My email- abhimanyu9828.2001@gmail.com
-- My wordpress blog: cloud9.finance.blog
+- The Simon Game Project: https://the-developing-soul-09.github.io/The-Simon-Game-Project-/
+- My blog: cloud9.finance.blog
